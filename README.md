@@ -27,15 +27,9 @@ A simple and effective **offline translation tool** built with **Tkinter GUI** t
 ---
 
 ## 📷 Demo
-
-![demo](https://github.com/your-username/your-repo-name/assets/demo-gif.gif) <!-- Optional: Include screenshot or GIF -->
+Link - https://drive.google.com/drive/folders/1iW8zVk44ET4pX11_x_MDDYa7C8ZfFptx
 
 ---
 
 ## 🚀 Installation & Usage
-
-1. **Clone this repository:**
-
-```bash
-git clone https://github.com/your-username/offline-translator.git
-cd offline-translator
+pip install torch transformers tkinter
